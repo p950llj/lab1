@@ -1,3 +1,3 @@
 def call(String name = 'human') {
-    echo "Dummy you, ${name}."
+    echo "Bye there, ${name}."
 }
